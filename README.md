@@ -1,2 +1,2 @@
 # chrome-template
-design tampila awal google chrome
+design tampilan awal google chrome
